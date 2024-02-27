@@ -10,4 +10,4 @@
 1) Para isso faremos a Extração dos dados através de API ( visualcrossing )
 2) Iremos armazenar esses dados brutos na camada Bronze
 3) Iremos armazenar os dados tratados na camada Silver
-4) Iremos armazenar os dados prontos para consum na camada Gold
+4) Iremos armazenar os dados prontos para consumo na camada Gold
