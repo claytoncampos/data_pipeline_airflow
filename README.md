@@ -4,7 +4,7 @@
 
 *   Iremos Utilizar o modelo Medalhão ( Bronze / Silver / Gold)
 *   Armazenamento de Previsão do tempo, condições climaticas e temperaturas
-*   Orquestração com Apache airflow
+*   Orquestração com Apache airflow para execução do pipeline toda segunda feira
 
 
 1) Para isso faremos a Extração dos dados através de API ( visualcrossing )
