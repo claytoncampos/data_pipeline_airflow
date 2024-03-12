@@ -69,9 +69,11 @@ airflow standalone
 6. Acesso localhost:8080
 Pegue a senha no log ou no arquivo gerado standalone_admin_password
 
-7. Opcionalmente pode usar o docker para subir o airflow em container.
-7.1 Pré Req
+7. Opcionalmente pode usar o docker para subir o airflow em container.</br>
+
+7.1 Pré Req</br>
 Instale o docker e docker compose
 
-Use o docker-compose.yml que está dentro do diretorio /compose
+    Use o docker-compose.yml que está dentro do diretorio /compose
 
+![alt text](asset/image.png)
